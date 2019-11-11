@@ -1,0 +1,5 @@
+/home/nikita/repos/lab4/CMakeFiles/rebuild_cache.dir
+/home/nikita/repos/lab4/CMakeFiles/hello.dir
+/home/nikita/repos/lab4/CMakeFiles/edit_cache.dir
+/home/nikita/repos/lab4/CMakeFiles/main.dir
+/home/nikita/repos/lab4/CMakeFiles/calculator.dir
